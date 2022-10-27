@@ -1,0 +1,9 @@
+rootProject.name = 'yogjun-base'
+//include "yogjun-base-endpoint"
+//include "yogjun-base-service"
+//include "yogjun-base-repository"
+//include "yogjun-base-server"
+//include "yogjun-base-test"
+include 'yogjun-base-api'
+include 'yogjun-base-client'
+
